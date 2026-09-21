@@ -12,5 +12,16 @@
   "sourceUrl": "",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "boidz",
+      "name": "boidz",
+      "description": "Trigger based on boids position.",
+      "tags": [
+        "visual",
+        "digital",
+        "random"
+      ]
+    }
+  ]
 }
